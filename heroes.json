@@ -33,7 +33,7 @@
             "id": 3
         },
         {
-            "nick_name": "BS",
+            "nick_name": "Bs",
             "localized_name": "Bloodseeker",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_full.png",
             "name": "npc_dota_hero_bloodseeker",
@@ -53,7 +53,7 @@
             "id": 5
         },
         {
-            "nick_name": "Dro",
+            "nick_name": "DR",
             "localized_name": "Drow Ranger",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_full.png",
             "name": "npc_dota_hero_drow_ranger",
@@ -73,7 +73,7 @@
             "id": 7
         },
         {
-            "nick_name": "Ugg",
+            "nick_name": "Jug",
             "localized_name": "Juggernaut",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_full.png",
             "name": "npc_dota_hero_juggernaut",
@@ -83,7 +83,7 @@
             "id": 8
         },
         {
-            "nick_name": "Mir",
+            "nick_name": "Mrn",
             "localized_name": "Mirana",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_full.png",
             "name": "npc_dota_hero_mirana",
@@ -183,7 +183,7 @@
             "id": 18
         },
         {
-            "nick_name": "Tin",
+            "nick_name": "Tny",
             "localized_name": "Tiny",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_full.png",
             "name": "npc_dota_hero_tiny",
@@ -233,7 +233,7 @@
             "id": 23
         },
         {
-            "nick_name": "Lia",
+            "nick_name": "Lna",
             "localized_name": "Lina",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_full.png",
             "name": "npc_dota_hero_lina",
@@ -253,7 +253,7 @@
             "id": 31
         },
         {
-            "nick_name": "Lio",
+            "nick_name": "Lin",
             "localized_name": "Lion",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_full.png",
             "name": "npc_dota_hero_lion",
@@ -273,7 +273,7 @@
             "id": 27
         },
         {
-            "nick_name": "Sla",
+            "nick_name": "Sld",
             "localized_name": "Slardar",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_full.png",
             "name": "npc_dota_hero_slardar",
@@ -351,14 +351,15 @@
             "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_lg.png",
             "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_vert.jpg",
             "id": 36
-        }, 
+        },
         {
-            "localized_name": "Warlock", 
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_full.png", 
-            "name": "npc_dota_hero_warlock", 
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_sb.png", 
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_lg.png", 
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_vert.jpg", 
+            "nick_name": "War",
+            "localized_name": "Warlock",
+            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_full.png",
+            "name": "npc_dota_hero_warlock",
+            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_sb.png",
+            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_lg.png",
+            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_vert.jpg",
             "id": 37
         },
         {
@@ -462,7 +463,7 @@
             "id": 47
         },
         {
-            "nick_name": "Lna",
+            "nick_name": "Lun",
             "localized_name": "Luna",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_full.png",
             "name": "npc_dota_hero_luna",
