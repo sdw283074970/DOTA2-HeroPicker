@@ -1033,6 +1033,16 @@
             "id": 104
         },
         {
+            "nick_name": "Tec",
+            "localized_name": "Techies",
+            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png",
+            "name": "npc_dota_hero_techies",
+            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_sb.png",
+            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_lg.png",
+            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_vert.jpg",
+            "id": 105
+        },
+        {
             "nick_name": "Emb",
             "localized_name": "Ember Spirit",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_full.png",
@@ -1051,6 +1061,16 @@
             "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_lg.png",
             "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_vert.jpg",
             "id": 107
+        },
+        {
+            "nick_name": "Udl",
+            "localized_name": "Underlord",
+            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_full.png",
+            "name": "npc_dota_hero_abyssal_underlord",
+            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_sb.png",
+            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_lg.png",
+            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_vert.jpg",
+            "id": 108
         },
         {
             "nick_name": "TB",
@@ -1083,16 +1103,6 @@
             "id": 111
         },
         {
-            "nick_name": "Tec",
-            "localized_name": "Techies",
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png",
-            "name": "npc_dota_hero_techies",
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_sb.png",
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_lg.png",
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_vert.jpg",
-            "id": 105
-        },
-        {
             "nick_name": "WW",
             "localized_name": "Winter Wyvern",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_full.png",
@@ -1111,16 +1121,6 @@
             "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_lg.png",
             "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_vert.jpg",
             "id": 113
-        },
-        {
-            "nick_name": "Udl",
-            "localized_name": "Underlord",
-            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_full.png",
-            "name": "npc_dota_hero_abyssal_underlord",
-            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_sb.png",
-            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_lg.png",
-            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_vert.jpg",
-            "id": 108
         },
         {
             "nick_name": "MK",
