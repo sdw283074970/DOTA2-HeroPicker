@@ -23,7 +23,7 @@
             "id": 2
         },
         {
-            "nick_name": "Ban",
+            "nick_name": "Bane",
             "localized_name": "Bane",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_full.png",
             "name": "npc_dota_hero_bane",
@@ -53,7 +53,7 @@
             "id": 5
         },
         {
-            "nick_name": "DR",
+            "nick_name": "Drow",
             "localized_name": "Drow Ranger",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_full.png",
             "name": "npc_dota_hero_drow_ranger",
@@ -73,7 +73,7 @@
             "id": 7
         },
         {
-            "nick_name": "Jug",
+            "nick_name": "Jugg",
             "localized_name": "Juggernaut",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_full.png",
             "name": "npc_dota_hero_juggernaut",
@@ -83,7 +83,7 @@
             "id": 8
         },
         {
-            "nick_name": "Mrn",
+            "nick_name": "POM",
             "localized_name": "Mirana",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_full.png",
             "name": "npc_dota_hero_mirana",
@@ -103,7 +103,7 @@
             "id": 11
         },
         {
-            "nick_name": "Mor",
+            "nick_name": "Morph",
             "localized_name": "Morphling",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_full.png",
             "name": "npc_dota_hero_morphling",
@@ -123,7 +123,7 @@
             "id": 12
         },
         {
-            "nick_name": "Puk",
+            "nick_name": "Puck",
             "localized_name": "Puck",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_full.png",
             "name": "npc_dota_hero_puck",
@@ -133,7 +133,7 @@
             "id": 13
         },
         {
-            "nick_name": "Pug",
+            "nick_name": "Pudge",
             "localized_name": "Pudge",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_full.png",
             "name": "npc_dota_hero_pudge",
@@ -143,7 +143,7 @@
             "id": 14
         },
         {
-            "nick_name": "Raz",
+            "nick_name": "Razor",
             "localized_name": "Razor",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_full.png",
             "name": "npc_dota_hero_razor",
@@ -173,7 +173,7 @@
             "id": 17
         },
         {
-            "nick_name": "Svn",
+            "nick_name": "Sven",
             "localized_name": "Sven",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_full.png",
             "name": "npc_dota_hero_sven",
@@ -183,7 +183,7 @@
             "id": 18
         },
         {
-            "nick_name": "Tny",
+            "nick_name": "Tiny",
             "localized_name": "Tiny",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_full.png",
             "name": "npc_dota_hero_tiny",
@@ -203,7 +203,7 @@
             "id": 20
         },
         {
-            "nick_name": "Win",
+            "nick_name": "Wind",
             "localized_name": "Windranger",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_full.png",
             "name": "npc_dota_hero_windrunner",
@@ -213,7 +213,7 @@
             "id": 21
         },
         {
-            "nick_name": "Zus",
+            "nick_name": "Zeus",
             "localized_name": "Zeus",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_full.png",
             "name": "npc_dota_hero_zuus",
@@ -233,7 +233,7 @@
             "id": 23
         },
         {
-            "nick_name": "Lna",
+            "nick_name": "Lina",
             "localized_name": "Lina",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_full.png",
             "name": "npc_dota_hero_lina",
@@ -243,7 +243,7 @@
             "id": 25
         },
         {
-            "nick_name": "Lch",
+            "nick_name": "Lich",
             "localized_name": "Lich",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_full.png",
             "name": "npc_dota_hero_lich",
@@ -253,7 +253,7 @@
             "id": 31
         },
         {
-            "nick_name": "Lin",
+            "nick_name": "Lion",
             "localized_name": "Lion",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_full.png",
             "name": "npc_dota_hero_lion",
@@ -263,7 +263,7 @@
             "id": 26
         },
         {
-            "nick_name": "Y",
+            "nick_name": "Shaman",
             "localized_name": "Shadow Shaman",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_full.png",
             "name": "npc_dota_hero_shadow_shaman",
@@ -273,7 +273,7 @@
             "id": 27
         },
         {
-            "nick_name": "Sld",
+            "nick_name": "Slardar",
             "localized_name": "Slardar",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_full.png",
             "name": "npc_dota_hero_slardar",
@@ -283,7 +283,7 @@
             "id": 28
         },
         {
-            "nick_name": "Tid",
+            "nick_name": "Tide",
             "localized_name": "Tidehunter",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_full.png",
             "name": "npc_dota_hero_tidehunter",
@@ -293,7 +293,7 @@
             "id": 29
         },
         {
-            "nick_name": "WD",
+            "nick_name": "Witch",
             "localized_name": "Witch Doctor",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_full.png",
             "name": "npc_dota_hero_witch_doctor",
@@ -303,7 +303,7 @@
             "id": 30
         },
         {
-            "nick_name": "Rik",
+            "nick_name": "Riki",
             "localized_name": "Riki",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_full.png",
             "name": "npc_dota_hero_riki",
@@ -313,7 +313,7 @@
             "id": 32
         },
         {
-            "nick_name": "Egm",
+            "nick_name": "Enigma",
             "localized_name": "Enigma",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_full.png",
             "name": "npc_dota_hero_enigma",
@@ -333,7 +333,7 @@
             "id": 34
         },
         {
-            "nick_name": "Snp",
+            "nick_name": "Sniper",
             "localized_name": "Sniper",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_full.png",
             "name": "npc_dota_hero_sniper",
@@ -353,7 +353,7 @@
             "id": 36
         },
         {
-            "nick_name": "War",
+            "nick_name": "Warlock",
             "localized_name": "Warlock",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_full.png",
             "name": "npc_dota_hero_warlock",
@@ -383,7 +383,7 @@
             "id": 39
         },
         {
-            "nick_name": "Vem",
+            "nick_name": "Veno",
             "localized_name": "Venomancer",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_full.png",
             "name": "npc_dota_hero_venomancer",
@@ -393,7 +393,7 @@
             "id": 40
         },
         {
-            "nick_name": "Voi",
+            "nick_name": "Void",
             "localized_name": "Faceless Void",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_full.png",
             "name": "npc_dota_hero_faceless_void",
@@ -433,7 +433,7 @@
             "id": 44
         },
         {
-            "nick_name": "Pga",
+            "nick_name": "Pugna",
             "localized_name": "Pugna",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_full.png",
             "name": "npc_dota_hero_pugna",
@@ -463,7 +463,7 @@
             "id": 47
         },
         {
-            "nick_name": "Lun",
+            "nick_name": "Luna",
             "localized_name": "Luna",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_full.png",
             "name": "npc_dota_hero_luna",
@@ -483,7 +483,7 @@
             "id": 49
         },
         {
-            "nick_name": "Daz",
+            "nick_name": "Dazzle",
             "localized_name": "Dazzle",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_full.png",
             "name": "npc_dota_hero_dazzle",
@@ -493,7 +493,7 @@
             "id": 50
         },
         {
-            "nick_name": "Cok",
+            "nick_name": "Clock",
             "localized_name": "Clockwerk",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_full.png",
             "name": "npc_dota_hero_rattletrap",
@@ -503,7 +503,7 @@
             "id": 51
         },
         {
-            "nick_name": "Lsc",
+            "nick_name": "Leshrac",
             "localized_name": "Leshrac",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_full.png",
             "name": "npc_dota_hero_leshrac",
@@ -513,7 +513,7 @@
             "id": 52
         },
         {
-            "nick_name": "NP",
+            "nick_name": "Np",
             "localized_name": "Nature's Prophet",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_full.png",
             "name": "npc_dota_hero_furion",
@@ -523,7 +523,7 @@
             "id": 53
         },
         {
-            "nick_name": "Gul",
+            "nick_name": "Ghoul",
             "localized_name": "Lifestealer",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_full.png",
             "name": "npc_dota_hero_life_stealer",
@@ -543,7 +543,7 @@
             "id": 55
         },
         {
-            "nick_name": "Ckz",
+            "nick_name": "Clinkz",
             "localized_name": "Clinkz",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_full.png",
             "name": "npc_dota_hero_clinkz",
@@ -553,7 +553,7 @@
             "id": 56
         },
         {
-            "nick_name": "Pal",
+            "nick_name": "Omni",
             "localized_name": "Omniknight",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_full.png",
             "name": "npc_dota_hero_omniknight",
@@ -573,7 +573,7 @@
             "id": 58
         },
         {
-            "nick_name": "Hsk",
+            "nick_name": "Huskar",
             "localized_name": "Huskar",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_full.png",
             "name": "npc_dota_hero_huskar",
@@ -593,7 +593,7 @@
             "id": 60
         },
         {
-            "nick_name": "Spd",
+            "nick_name": "Spider",
             "localized_name": "Broodmother",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_full.png",
             "name": "npc_dota_hero_broodmother",
@@ -613,7 +613,7 @@
             "id": 62
         },
         {
-            "nick_name": "Wav",
+            "nick_name": "Weaver",
             "localized_name": "Weaver",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_full.png",
             "name": "npc_dota_hero_weaver",
@@ -623,7 +623,7 @@
             "id": 63
         },
         {
-            "nick_name": "Jkr",
+            "nick_name": "Jakiro",
             "localized_name": "Jakiro",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_full.png",
             "name": "npc_dota_hero_jakiro",
@@ -643,7 +643,7 @@
             "id": 65
         },
         {
-            "nick_name": "Che",
+            "nick_name": "Chen",
             "localized_name": "Chen",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_full.png",
             "name": "npc_dota_hero_chen",
@@ -653,7 +653,7 @@
             "id": 66
         },
         {
-            "nick_name": "Spt",
+            "nick_name": "Spectre",
             "localized_name": "Spectre",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_full.png",
             "name": "npc_dota_hero_spectre",
@@ -663,7 +663,7 @@
             "id": 67
         },
         {
-            "nick_name": "Dom",
+            "nick_name": "Doom",
             "localized_name": "Doom",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_full.png",
             "name": "npc_dota_hero_doom_bringer",
@@ -683,7 +683,7 @@
             "id": 68
         },
         {
-            "nick_name": "Urs",
+            "nick_name": "Ursa",
             "localized_name": "Ursa",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_full.png",
             "name": "npc_dota_hero_ursa",
@@ -693,7 +693,7 @@
             "id": 70
         },
         {
-            "nick_name": "SB",
+            "nick_name": "Cow",
             "localized_name": "Spirit Breaker",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_full.png",
             "name": "npc_dota_hero_spirit_breaker",
@@ -703,7 +703,7 @@
             "id": 71
         },
         {
-            "nick_name": "Gro",
+            "nick_name": "Gyro",
             "localized_name": "Gyrocopter",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_full.png",
             "name": "npc_dota_hero_gyrocopter",
@@ -723,7 +723,7 @@
             "id": 73
         },
         {
-            "nick_name": "Ivo",
+            "nick_name": "Invoker",
             "localized_name": "Invoker",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_full.png",
             "name": "npc_dota_hero_invoker",
@@ -733,7 +733,7 @@
             "id": 74
         },
         {
-            "nick_name": "Slc",
+            "nick_name": "Silencer",
             "localized_name": "Silencer",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_full.png",
             "name": "npc_dota_hero_silencer",
@@ -753,7 +753,7 @@
             "id": 76
         },
         {
-            "nick_name": "Wof",
+            "nick_name": "WW",
             "localized_name": "Lycan",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_full.png",
             "name": "npc_dota_hero_lycan",
@@ -763,7 +763,7 @@
             "id": 77
         },
         {
-            "nick_name": "Pad",
+            "nick_name": "Panda",
             "localized_name": "Brewmaster",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_full.png",
             "name": "npc_dota_hero_brewmaster",
@@ -783,7 +783,7 @@
             "id": 79
         },
         {
-            "nick_name": "Dri",
+            "nick_name": "Druid",
             "localized_name": "Lone Druid",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_full.png",
             "name": "npc_dota_hero_lone_druid",
@@ -803,7 +803,7 @@
             "id": 81
         },
         {
-            "nick_name": "Mpo",
+            "nick_name": "Meepo",
             "localized_name": "Meepo",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_full.png",
             "name": "npc_dota_hero_meepo",
@@ -813,7 +813,7 @@
             "id": 82
         },
         {
-            "nick_name": "Tre",
+            "nick_name": "Tree",
             "localized_name": "Treant Protector",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_full.png",
             "name": "npc_dota_hero_treant",
@@ -843,7 +843,7 @@
             "id": 85
         },
         {
-            "nick_name": "Rbk",
+            "nick_name": "Rubick",
             "localized_name": "Rubick",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_full.png",
             "name": "npc_dota_hero_rubick",
@@ -853,7 +853,7 @@
             "id": 86
         },
         {
-            "nick_name": "Thr",
+            "nick_name": "Thrall ",
             "localized_name": "Disruptor",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_full.png",
             "name": "npc_dota_hero_disruptor",
@@ -873,7 +873,7 @@
             "id": 88
         },
         {
-            "nick_name": "Nag",
+            "nick_name": "Naga",
             "localized_name": "Naga Siren",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_full.png",
             "name": "npc_dota_hero_naga_siren",
@@ -903,7 +903,7 @@
             "id": 91
         },
         {
-            "nick_name": "Vsg",
+            "nick_name": "Visage",
             "localized_name": "Visage",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_full.png",
             "name": "npc_dota_hero_visage",
@@ -913,7 +913,7 @@
             "id": 92
         },
         {
-            "nick_name": "Slk",
+            "nick_name": "Slark",
             "localized_name": "Slark",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_full.png",
             "name": "npc_dota_hero_slark",
@@ -923,7 +923,7 @@
             "id": 93
         },
         {
-            "nick_name": "Mds",
+            "nick_name": "Dusa",
             "localized_name": "Medusa",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_full.png",
             "name": "npc_dota_hero_medusa",
@@ -933,7 +933,7 @@
             "id": 94
         },
         {
-            "nick_name": "Tro",
+            "nick_name": "Troll",
             "localized_name": "Troll Warlord",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_full.png",
             "name": "npc_dota_hero_troll_warlord",
@@ -953,7 +953,7 @@
             "id": 96
         },
         {
-            "nick_name": "Mgn",
+            "nick_name": "Mag",
             "localized_name": "Magnus",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_full.png",
             "name": "npc_dota_hero_magnataur",
@@ -963,7 +963,7 @@
             "id": 97
         },
         {
-            "nick_name": "Tim",
+            "nick_name": "Timber",
             "localized_name": "Timbersaw",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_full.png",
             "name": "npc_dota_hero_shredder",
@@ -983,7 +983,7 @@
             "id": 99
         },
         {
-            "nick_name": "Tsk",
+            "nick_name": "Tusk",
             "localized_name": "Tusk",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_full.png",
             "name": "npc_dota_hero_tusk",
@@ -993,7 +993,7 @@
             "id": 100
         },
         {
-            "nick_name": "SM",
+            "nick_name": "Skywrath",
             "localized_name": "Skywrath Mage",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_full.png",
             "name": "npc_dota_hero_skywrath_mage",
@@ -1003,7 +1003,7 @@
             "id": 101
         },
         {
-            "nick_name": "Abd",
+            "nick_name": "Abaddon",
             "localized_name": "Abaddon",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_full.png",
             "name": "npc_dota_hero_abaddon",
@@ -1013,7 +1013,7 @@
             "id": 102
         },
         {
-            "nick_name": "ET",
+            "nick_name": "Elder",
             "localized_name": "Elder Titan",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_full.png",
             "name": "npc_dota_hero_elder_titan",
@@ -1033,7 +1033,7 @@
             "id": 104
         },
         {
-            "nick_name": "Tec",
+            "nick_name": "Tech",
             "localized_name": "Techies",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_full.png",
             "name": "npc_dota_hero_techies",
@@ -1043,7 +1043,7 @@
             "id": 105
         },
         {
-            "nick_name": "Emb",
+            "nick_name": "Ember",
             "localized_name": "Ember Spirit",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_full.png",
             "name": "npc_dota_hero_ember_spirit",
@@ -1063,7 +1063,7 @@
             "id": 107
         },
         {
-            "nick_name": "Udl",
+            "nick_name": "Underlord",
             "localized_name": "Underlord",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_full.png",
             "name": "npc_dota_hero_abyssal_underlord",
@@ -1083,7 +1083,7 @@
             "id": 109
         },
         {
-            "nick_name": "Pnx",
+            "nick_name": "Phoenix",
             "localized_name": "Phoenix",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_full.png",
             "name": "npc_dota_hero_phoenix",
@@ -1093,7 +1093,7 @@
             "id": 110
         },
         {
-            "nick_name": "Orc",
+            "nick_name": "Oracle",
             "localized_name": "Oracle",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_full.png",
             "name": "npc_dota_hero_oracle",
@@ -1103,7 +1103,7 @@
             "id": 111
         },
         {
-            "nick_name": "WW",
+            "nick_name": "Winter",
             "localized_name": "Winter Wyvern",
             "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_full.png",
             "name": "npc_dota_hero_winter_wyvern",
@@ -1131,6 +1131,25 @@
             "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_lg.png",
             "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_vert.jpg",
             "id": 114
+        },
+        {
+            "localized_name": "Dark Willow", 
+            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_full.png", 
+            "name": "npc_dota_hero_dark_willow", 
+            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_sb.png", 
+            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_lg.png", 
+            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_vert.jpg", 
+            "id": 119
+        }
+        ,
+        {
+            "localized_name": "Pangolier", 
+            "url_full_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_full.png", 
+            "name": "npc_dota_hero_pangolier", 
+            "url_small_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_sb.png", 
+            "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_lg.png", 
+            "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_vert.jpg", 
+            "id": 120
         }
     ]
 }
