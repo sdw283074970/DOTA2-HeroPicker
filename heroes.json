@@ -8,6 +8,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_vert.jpg",
         "position": "12",
+        "heroRoles": [
+            {
+                "id": 1,
+                "name": "Carry"
+            }
+        ],
         "id": 1
     },
     {
