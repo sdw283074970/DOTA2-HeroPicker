@@ -8,13 +8,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_vert.jpg",
         "position": "12",
-        "heroRoles": [
+        "id": 1,
+        "DutyHeroes": [
             {
-                "id": 1,
-                "name": "Carry"
+                "dutyId": 1
             }
-        ],
-        "id": 1
+        ]
     },
     {
         "nick_name": "Axe",
@@ -25,7 +24,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_vert.jpg",
         "position": "34",
-        "id": 2
+        "id": 2,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Bane",
@@ -36,7 +43,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_vert.jpg",
         "position": "45",
-        "id": 3
+        "id": 3,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5
+            }
+        ]
     },
     {
         "nick_name": "Bs",
@@ -47,7 +65,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_vert.jpg",
         "position": "23",
-        "id": 4
+        "id": 4,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "CM",
@@ -58,7 +90,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_vert.jpg",
         "position": "45",
-        "id": 5
+        "id": 5,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Drow",
@@ -69,7 +109,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_vert.jpg",
         "position": "12",
-        "id": 6
+        "id": 6,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Es",
@@ -80,7 +128,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_vert.jpg",
         "position": "34",
-        "id": 7
+        "id": 7,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Jugg",
@@ -91,7 +153,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_vert.jpg",
         "position": "12",
-        "id": 8
+        "id": 8,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "POM",
@@ -102,7 +178,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_vert.jpg",
         "position": "45",
-        "id": 9
+        "id": 9,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "SF",
@@ -113,7 +197,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_vert.jpg",
         "position": "12",
-        "id": 11
+        "id": 11,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Morph",
@@ -124,7 +213,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_vert.jpg",
         "position": "12",
-        "id": 10
+        "id": 10,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "PL",
@@ -135,7 +232,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_vert.jpg",
         "position": "12",
-        "id": 12
+        "id": 12,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Puck",
@@ -146,7 +251,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_vert.jpg",
         "position": "23",
-        "id": 13
+        "id": 13,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Pudge",
@@ -157,7 +270,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_vert.jpg",
         "position": "34",
-        "id": 14
+        "id": 14,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Razor",
@@ -168,7 +286,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_vert.jpg",
         "position": "12",
-        "id": 15
+        "id": 15,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "SK",
@@ -179,7 +308,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_vert.jpg",
         "position": "34",
-        "id": 16
+        "id": 16,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "SS",
@@ -190,7 +327,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_vert.jpg",
         "position": "12",
-        "id": 17
+        "id": 17,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Sven",
@@ -201,7 +343,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_vert.jpg",
         "position": "12",
-        "id": 18
+        "id": 18,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            }
+        ]
     },
     {
         "nick_name": "Tiny",
@@ -212,7 +359,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_vert.jpg",
         "position": "23",
-        "id": 19
+        "id": 19,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "VS",
@@ -223,7 +378,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_vert.jpg",
         "position": "45",
-        "id": 20
+        "id": 20,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Wind",
@@ -234,7 +397,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_vert.jpg",
         "position": "23",
-        "id": 21
+        "id": 21,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Zeus",
@@ -245,7 +416,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_vert.jpg",
         "position": "23",
-        "id": 22
+        "id": 22,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Kuk",
@@ -256,7 +435,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_vert.jpg",
         "position": "34",
-        "id": 23
+        "id": 23,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Lina",
@@ -267,7 +460,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_vert.jpg",
         "position": "12",
-        "id": 25
+        "id": 25,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Lich",
@@ -278,7 +485,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_vert.jpg",
         "position": "45",
-        "id": 31
+        "id": 31,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Lion",
@@ -289,7 +507,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_vert.jpg",
         "position": "45",
-        "id": 26
+        "id": 26,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Shaman",
@@ -300,7 +526,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_vert.jpg",
         "position": "45",
-        "id": 27
+        "id": 27,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Slardar",
@@ -311,7 +545,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_vert.jpg",
         "position": "34",
-        "id": 28
+        "id": 28,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Tide",
@@ -322,7 +564,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_vert.jpg",
         "position": "23",
-        "id": 29
+        "id": 29,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Witch",
@@ -333,7 +580,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_vert.jpg",
         "position": "45",
-        "id": 30
+        "id": 30,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Riki",
@@ -344,7 +599,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_vert.jpg",
         "position": "34",
-        "id": 32
+        "id": 32,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Enigma",
@@ -355,7 +615,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_vert.jpg",
         "position": "23",
-        "id": 33
+        "id": 33,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Tk",
@@ -366,7 +634,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_vert.jpg",
         "position": "12",
-        "id": 34
+        "id": 34,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Sniper",
@@ -377,7 +650,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_vert.jpg",
         "position": "12",
-        "id": 35
+        "id": 35,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Nec",
@@ -388,7 +669,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_vert.jpg",
         "position": "23",
-        "id": 36
+        "id": 36,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Warlock",
@@ -399,7 +691,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_vert.jpg",
         "position": "45",
-        "id": 37
+        "id": 37,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Bm",
@@ -410,7 +713,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_vert.jpg",
         "position": "23",
-        "id": 38
+        "id": 38,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Qop",
@@ -421,7 +732,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_vert.jpg",
         "position": "12",
-        "id": 39
+        "id": 39,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Veno",
@@ -432,7 +748,24 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_vert.jpg",
         "position": "34",
-        "id": 40
+        "id": 40,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Void",
@@ -443,7 +776,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_vert.jpg",
         "position": "12",
-        "id": 41
+        "id": 41,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "WK",
@@ -454,7 +795,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_vert.jpg",
         "position": "12",
-        "id": 42
+        "id": 42,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "DP",
@@ -465,7 +817,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_vert.jpg",
         "position": "12",
-        "id": 43
+        "id": 43,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "PA",
@@ -476,7 +836,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_vert.jpg",
         "position": "12",
-        "id": 44
+        "id": 44,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Pugna",
@@ -487,7 +858,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_vert.jpg",
         "position": "23",
-        "id": 45
+        "id": 45,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "TA",
@@ -498,7 +883,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_vert.jpg",
         "position": "12",
-        "id": 46
+        "id": 46,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Vip",
@@ -509,7 +899,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/viper_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/viper_vert.jpg",
         "position": "23",
-        "id": 47
+        "id": 47,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Luna",
@@ -520,7 +921,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_vert.jpg",
         "position": "12",
-        "id": 48
+        "id": 48,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "DK",
@@ -531,7 +940,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_vert.jpg",
         "position": "12",
-        "id": 49
+        "id": 49,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Dazzle",
@@ -542,7 +962,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_vert.jpg",
         "position": "45",
-        "id": 50
+        "id": 50,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Clock",
@@ -553,7 +981,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_vert.jpg",
         "position": "34",
-        "id": 51
+        "id": 51,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Leshrac",
@@ -564,7 +1000,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_vert.jpg",
         "position": "45",
-        "id": 52
+        "id": 52,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Np",
@@ -575,7 +1025,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_vert.jpg",
         "position": "23",
-        "id": 53
+        "id": 53,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Ghoul",
@@ -586,7 +1044,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_vert.jpg",
         "position": "12",
-        "id": 54
+        "id": 54,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "DS",
@@ -597,7 +1063,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_vert.jpg",
         "position": "23",
-        "id": 55
+        "id": 55,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Clinkz",
@@ -608,7 +1079,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_vert.jpg",
         "position": "12",
-        "id": 56
+        "id": 56,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Omni",
@@ -619,7 +1101,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_vert.jpg",
         "position": "34",
-        "id": 57
+        "id": 57,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Dry",
@@ -630,7 +1120,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/enchantress_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/enchantress_vert.jpg",
         "position": "34",
-        "id": 58
+        "id": 58,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Huskar",
@@ -641,7 +1139,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_vert.jpg",
         "position": "12",
-        "id": 59
+        "id": 59,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "NS",
@@ -652,7 +1161,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_vert.jpg",
         "position": "34",
-        "id": 60
+        "id": 60,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Spider",
@@ -663,7 +1180,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_vert.jpg",
         "position": "23",
-        "id": 61
+        "id": 61,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "BH",
@@ -674,7 +1199,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_vert.jpg",
         "position": "45",
-        "id": 62
+        "id": 62,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Weaver",
@@ -685,7 +1215,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_vert.jpg",
         "position": "12",
-        "id": 63
+        "id": 63,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Jakiro",
@@ -696,7 +1237,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_vert.jpg",
         "position": "45",
-        "id": 64
+        "id": 64,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Bat",
@@ -707,7 +1259,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/batrider_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/batrider_vert.jpg",
         "position": "34",
-        "id": 65
+        "id": 65,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Chen",
@@ -718,7 +1278,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_vert.jpg",
         "position": "45",
-        "id": 66
+        "id": 66,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Spectre",
@@ -729,7 +1294,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_vert.jpg",
         "position": "12",
-        "id": 67
+        "id": 67,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Doom",
@@ -740,7 +1313,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_vert.jpg",
         "position": "23",
-        "id": 69
+        "id": 69,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "AA",
@@ -751,7 +1332,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_vert.jpg",
         "position": "45",
-        "id": 68
+        "id": 68,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Ursa",
@@ -762,7 +1351,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_vert.jpg",
         "position": "23",
-        "id": 70
+        "id": 70,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Cow",
@@ -773,7 +1373,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_vert.jpg",
         "position": "34",
-        "id": 71
+        "id": 71,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Gyro",
@@ -784,7 +1389,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_vert.jpg",
         "position": "12",
-        "id": 72
+        "id": 72,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            } 
+        ]
     },
     {
         "nick_name": "Al",
@@ -795,7 +1411,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/alchemist_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/alchemist_vert.jpg",
         "position": "12",
-        "id": 73
+        "id": 73,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Invoker",
@@ -806,7 +1436,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_vert.jpg",
         "position": "12",
-        "id": 74
+        "id": 74,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Silencer",
@@ -817,7 +1455,24 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_vert.jpg",
         "position": "34",
-        "id": 75
+        "id": 75,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "OD",
@@ -828,7 +1483,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_vert.jpg",
         "position": "12",
-        "id": 76
+        "id": 76,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "WW",
@@ -839,7 +1502,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_vert.jpg",
         "position": "12",
-        "id": 77
+        "id": 77,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Panda",
@@ -850,7 +1524,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_vert.jpg",
         "position": "23",
-        "id": 78
+        "id": 78,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "SD",
@@ -861,7 +1540,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_vert.jpg",
         "position": "45",
-        "id": 79
+        "id": 79,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Druid",
@@ -872,7 +1559,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_vert.jpg",
         "position": "23",
-        "id": 80
+        "id": 80,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "CK",
@@ -883,7 +1584,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_vert.jpg",
         "position": "12",
-        "id": 81
+        "id": 81,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Meepo",
@@ -894,7 +1603,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_vert.jpg",
         "position": "12",
-        "id": 82
+        "id": 82,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Tree",
@@ -905,7 +1625,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_vert.jpg",
         "position": "45",
-        "id": 83
+        "id": 83,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "OM",
@@ -916,7 +1644,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_vert.jpg",
         "position": "45",
-        "id": 84
+        "id": 84,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Ud",
@@ -927,7 +1663,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/undying_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/undying_vert.jpg",
         "position": "34",
-        "id": 85
+        "id": 85,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Rubick",
@@ -938,7 +1682,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_vert.jpg",
         "position": "45",
-        "id": 86
+        "id": 86,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Thrall ",
@@ -949,7 +1701,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_vert.jpg",
         "position": "45",
-        "id": 87
+        "id": 87,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Nyx",
@@ -960,7 +1720,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_vert.jpg",
         "position": "34",
-        "id": 88
+        "id": 88,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Naga",
@@ -971,7 +1739,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_vert.jpg",
         "position": "12",
-        "id": 89
+        "id": 89,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Kol",
@@ -982,7 +1761,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_vert.jpg",
         "position": "45",
-        "id": 90
+        "id": 90,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Io",
@@ -993,7 +1780,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_vert.jpg",
         "position": "45",
-        "id": 91
+        "id": 91,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Visage",
@@ -1004,7 +1799,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_vert.jpg",
         "position": "23",
-        "id": 92
+        "id": 92,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Slark",
@@ -1015,7 +1821,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_vert.jpg",
         "position": "12",
-        "id": 93
+        "id": 93,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Dusa",
@@ -1026,7 +1840,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_vert.jpg",
         "position": "12",
-        "id": 94
+        "id": 94,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "Troll",
@@ -1037,7 +1859,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_vert.jpg",
         "position": "12",
-        "id": 95
+        "id": 95,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "CW",
@@ -1048,7 +1881,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_vert.jpg",
         "position": "34",
-        "id": 96
+        "id": 96,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Mag",
@@ -1059,7 +1897,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_vert.jpg",
         "position": "34",
-        "id": 97
+        "id": 97,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Timber",
@@ -1070,7 +1913,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_vert.jpg",
         "position": "23",
-        "id": 98
+        "id": 98,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Bb",
@@ -1081,7 +1932,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_vert.jpg",
         "position": "23",
-        "id": 99
+        "id": 99,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Tusk",
@@ -1092,7 +1951,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_vert.jpg",
         "position": "34",
-        "id": 100
+        "id": 100,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Skywrath",
@@ -1103,7 +1973,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_vert.jpg",
         "position": "45",
-        "id": 101
+        "id": 101,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Abaddon",
@@ -1114,7 +1995,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_vert.jpg",
         "position": "23",
-        "id": 102
+        "id": 102,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "Elder",
@@ -1125,7 +2011,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_vert.jpg",
         "position": "45",
-        "id": 103
+        "id": 103,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "LC",
@@ -1136,7 +2030,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_vert.jpg",
         "position": "23",
-        "id": 104
+        "id": 104,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Tech",
@@ -1147,7 +2055,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_vert.jpg",
         "position": "45",
-        "id": 105
+        "id": 105,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Ember",
@@ -1158,7 +2074,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_vert.jpg",
         "position": "12",
-        "id": 106
+        "id": 106,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "ES",
@@ -1169,7 +2093,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_vert.jpg",
         "position": "45",
-        "id": 107
+        "id": 107,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Underlord",
@@ -1180,7 +2112,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_vert.jpg",
         "position": "34",
-        "id": 108
+        "id": 108,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     },
     {
         "nick_name": "TB",
@@ -1191,7 +2128,12 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_vert.jpg",
         "position": "12",
-        "id": 109
+        "id": 109,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            }
+        ]
     },
     {
         "nick_name": "Phoenix",
@@ -1202,7 +2144,18 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_vert.jpg",
         "position": "34",
-        "id": 110
+        "id": 110,
+        "DutyHeroes": [
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Oracle",
@@ -1213,7 +2166,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_vert.jpg",
         "position": "45",
-        "id": 111
+        "id": 111,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "Winter",
@@ -1224,7 +2185,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_vert.jpg",
         "position": "45",
-        "id": 112
+        "id": 112,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
     },
     {
         "nick_name": "AW",
@@ -1235,7 +2204,15 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_vert.jpg",
         "position": "12",
-        "id": 113
+        "id": 113,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            }
+        ]
     },
     {
         "nick_name": "MK",
@@ -1246,7 +2223,21 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_lg.png",
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_vert.jpg",
         "position": "23",
-        "id": 114
+        "id": 114,
+        "DutyHeroes": [
+            {
+                "dutyId": 1
+            },
+            {
+                "dutyId": 2
+            },
+            {
+                "dutyId": 3
+            },
+            {
+                "dutyId": 4
+            }
+        ]
     },
     {
         "nick_name": "Willow",
@@ -1257,9 +2248,16 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_lg.png", 
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_vert.jpg", 
         "position": "45",
-        "id": 119
-    }
-    ,
+        "id": 119,
+        "DutyHeroes": [
+            {
+                "dutyId": 4
+            },
+            {
+                "dutyId": 5   
+            }
+        ]
+    },
     {
         "nick_name": "Pango",
         "localized_name": "Pangolier", 
@@ -1269,6 +2267,11 @@
         "url_large_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_lg.png", 
         "url_vertical_portrait": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_vert.jpg", 
         "position": "23",
-        "id": 120
+        "id": 120,
+        "DutyHeroes": [
+            {
+                "dutyId": 3
+            }
+        ]
     }
 ]
